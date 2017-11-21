@@ -5,9 +5,11 @@ Once this is download, clone this repo to .repo/local_manifests then sync reposi
 Launch your build (brunch lineage_a3y17lte-userdebug, lineage can change depending on the target rom)
 Contributors
 
-## /!\ this work is curently in work /!\
+*Notice:* **_This is a work in progress, it may not work_**
 
-Copyright (C) 2017 Matthieu <mcfy49@zeroside.com>
+## Credits
+
+Copyright (C) 2017 Matthieu <mcfy49@zeroside.com><br>
 Copyright (C) 2017 Victor Lourme <contact@zeroside.co>
 
 ## Donations
