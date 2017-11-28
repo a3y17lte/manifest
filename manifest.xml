@@ -17,7 +17,7 @@
     <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
 
     <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="universal" />
+    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
     
     <!-- Specific HW -->
     <project name="hardware" path="hardware/samsung_slsi-cm/exynos7870" remote="a3y17lte" revision="cm-14.1" />
