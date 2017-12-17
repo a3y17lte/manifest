@@ -26,7 +26,7 @@
     <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
     <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
-    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slis-cm" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm" remote="github" revision="cm-14.1" />
 
     
     <!-- Misc -->
