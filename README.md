@@ -8,10 +8,10 @@
 
 ## Credits
 
-Copyright (C) 2017 Matthieu <mcfy49@zeroside.com><br>
-Copyright (C) 2017 Victor Lourme <contact@zeroside.co>
+Copyright (C) 2017 Matthieu <g.matthieu49@gmail.com><br>
 
 ## Donations
 
 If you want make donation ask me for link on telegram :
 https://t.me/McFy49
+my mail paypal is g.matthieu49@gmail.com
