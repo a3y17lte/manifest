@@ -9,6 +9,7 @@
 ## Credits
 
 Copyright (C) 2017 Matthieu <g.matthieu49@gmail.com><br>
+Exynos7870 devs for their work
 
 ## Donations
 
