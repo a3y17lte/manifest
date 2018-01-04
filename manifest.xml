@@ -21,15 +21,15 @@
     <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
     
     <!-- Specific HW -->
-    <project name="samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="a3y17lte" revision="cm-14.1" />
-    <project name="samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="a3y17lte" revision="cm-14.1" />
+    <project name="hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="a3y17lte" revision="cm-14.1" />
+    <project name="hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="a3y17lte" revision="cm-14.1" />
 
     <!-- HW * -->
     <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
     <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
     
-    <!-- HW * -->
+    <!-- Doze -->
       
     <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
 
