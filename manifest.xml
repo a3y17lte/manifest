@@ -19,7 +19,7 @@
     <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
 
     <!-- Vendor -->
-    <project name="android_vendor_samsung_j7xelte" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
     
     <!-- Specific HW -->
     <project name="hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="a3y17lte" revision="cm-14.1" />
