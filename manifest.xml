@@ -11,7 +11,8 @@
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
 
     <!-- Device -->
-    <project name="device" path="device/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="device-for-common" path="device/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="device-common" path="device/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
 
     <!-- Kernel -->
     <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
