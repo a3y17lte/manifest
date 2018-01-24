@@ -12,7 +12,7 @@
 
     <!-- Device -->
     <project name="McFy/android_device_samsung_exynos7870-common" path="device/samsung/3y17lte/exynos7870-common" remote="gitlab" revision="cm-14.1" />
-    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="McFy49/android_device_samsung_a3" path="device/samsung/3y17lte/a3y17lte" remote="github" revision="cm-14.1" />
 
     <!-- Kernel -->
     <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
