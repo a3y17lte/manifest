@@ -11,7 +11,6 @@
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
 
     <!-- Device -->
-    <project name="McFy/android_device_samsung_exynos7870-common" path="device/samsung/3y17lte/exynos7870-common" remote="gitlab" revision="cm-14.1" />
     <project name="McFy49/android_device_samsung_a3" path="device/samsung/3y17lte/a3y17lte" remote="github" revision="cm-14.1" />
 
     <!-- Kernel -->
