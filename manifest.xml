@@ -34,5 +34,5 @@
     <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="staging/lineage-15.1" />
 
     <!-- Misc -->
-    <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="staging/lineage-15.1" />
+    <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.0" />
 </manifest>
