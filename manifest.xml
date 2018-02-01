@@ -11,28 +11,28 @@
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
 
     <!-- Device -->
-    <project name="device-common" path="device/samsung/exynos7870-common" remote="a3y17lte" revision="cm-14.1" />
-    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="device-common" path="device/samsung/exynos7870-common" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
 
     <!-- Kernel -->
-    <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="kernel" path="kernel/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
 
     <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="cm-14.1" />
+    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
     
     <!-- Specific HW -->
-    <project name="hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="a3y17lte" revision="cm-14.1" />
-    <project name="hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="a3y17lte" revision="cm-14.1" />
+    <project name="hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="a3y17lte" revision="lineage-15.0" />
+    <project name="hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="a3y17lte" revision="lineage-15.0" />
 
     <!-- HW * -->
-    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
-    <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
-    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-15.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1" />
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
     
     <!-- Doze -->
       
-    <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 
     <!-- Misc -->
-    <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+    <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />
 </manifest>
