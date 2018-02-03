@@ -2,9 +2,9 @@
 <manifest>
     <!--
     * target: a3y17lte
-    * author: McFy (Matthieu Guérif)
+    * author: McFy (Matthieu Guérif), Emre (Emre Simsek)
     * date: 29.01.2018
-    * rom: LineageOS 14.1
+    * rom: LineageOS 15.1
     -->
 
     <!-- Remote -->
@@ -17,7 +17,7 @@
     <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
 
     <!-- Kernel -->
-    <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="a3y17lte" />
+    <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-15.1" />
 
     <!-- Vendor -->
     <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
