@@ -27,8 +27,8 @@
     <!-- Hardware -->
     <project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="nx-8.1" />
-    <project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="Ivan Meler" revision="lineage-15.1" />
-    <project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="Ivan Meler" revision="lineage-15.1" />
+    <project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="IvanMeler" revision="lineage-15.1" />
+    <project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="IvanMeler" revision="lineage-15.1" />
     <project name="android_hardware_samsung" path="hardware/samsung" remote="Exynos7870" revision="lineage-15.1" />
     
     <!-- Doze -->
