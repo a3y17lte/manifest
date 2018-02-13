@@ -2,39 +2,16 @@
 <manifest>
     <!--
     * target: a3y17lte
-    * author: McFy (Matthieu Guérif), Emre (Emre Simsek)
-    * date: 11.02.2018
-    * rom: LineageOS 15.1
+    * author: McFy (Matthieu Guérif)
+    * date: 1.02.2018
+    * twrp
     -->
 
     <!-- Remote -->
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
-    <remote fetch="https://github.com/ivanmeler/" name="IvanMeler" />
-    <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
-    <remote fetch="https://github.com/LineageOS/" name="LineageOS" />
-    <remote fetch="https://github.com/TeamNexus/" name="nexus" />
-
-
+ 
     <!-- Device -->
-    <project name="common-exynos7870_LOS15.1" path="device/samsung/exynos7870-common" remote="a3y17lte" revision="lineage-15.1" />
-    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="twrp" path="device/samsung/a3y17lte" remote="a3y17lte" revision="android-8.1" />
 
     <!-- Kernel -->
     <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-15.1" />
-
-    <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="rebase-o" />
-    
-    <!-- Hardware -->
-	<project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="nexus" revision="nx-8.0" />
-	<project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="IvanMeler" revision="lineage-15.0" />
-	<project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="IvanMeler" revision="lineage-15.1" />
- 	<project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="IvanMeler" revision="lineage-15.1" />
-	<project name="android_hardware_samsung" path="hardware/samsung" remote="Exynos7870" revision="los-15.1" />
-	
-    <!-- Doze -->
-    <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="staging/lineage-15.1" />
-
-    <!-- Misc -->
-    <project name="android_external_stlport" path="external/stlport" remote="LineageOS" revision="lineage-15.0" />
-</manifest>
