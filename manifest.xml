@@ -23,7 +23,7 @@
     <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-15.1" />
 
     <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="rebase-o" />
+    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
     
     <!-- Hardware -->
     <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="nexus" revision="nx-8.0" />
