@@ -26,8 +26,8 @@
     <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
     
     <!-- Hardware -->
-    <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="nx-8.0" />
-    <project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="Exynos7870" revision="lineage-15.0" />
+    <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
+    <project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung" path="hardware/samsung" remote="LineageOS" revision="lineage-15.1" />
