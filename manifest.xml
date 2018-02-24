@@ -9,10 +9,8 @@
 
     <!-- Remote -->
     <remote fetch="https://github.com/a3y17lte/" name="a3y17lte" />
-    <remote fetch="https://github.com/ivanmeler/" name="IvanMeler" />
     <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
     <remote fetch="https://github.com/LineageOS/" name="LineageOS" />
-    <remote fetch="https://github.com/TeamNexus/" name="nexus" />
 
 
     <!-- Device -->
