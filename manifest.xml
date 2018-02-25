@@ -15,7 +15,7 @@
 
     <!-- Device -->
     <project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="rr-o" />
 
     <!-- Kernel -->
     <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-15.1" />
