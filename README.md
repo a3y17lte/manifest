@@ -1,9 +1,9 @@
-## Setup Galaxy A3 2017 for Lineage-15.1 based rom
+## Setup Galaxy A3 2017 for RR Oreo rom
 
-* Download supported sources (LineageOS, AOSCP, RR, etc...)
+* Download RR sources
 * Once this is download, clone this repo to .repo/local_manifests then sync repositories again
 * do the command . build/env*
-* Launch your build (brunch lineage_a3y17lte-userdebug, lineage can change depending on the target rom)
+* Then brunch a3y17lte
 
 *Notice:* **_This is a work in progress, it may not work_**
 
