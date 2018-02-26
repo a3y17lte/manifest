@@ -28,13 +28,13 @@
     <project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="Exynos7870" revision="lineage-15.1" />
     <project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="LineageOS" revision="lineage-15.1" />
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="Exynos7870" revision="lineage-15.1" />
 	
     <!-- Doze -->
     <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="staging/lineage-15.1" />
 	
     <!-- Replace Lineage Bionic with custom one -->
     <remove-project name="LineageOS/android_bionic" />
-    <project name="exynos7870/android_bionic" path="bionic" remote="github" revision="lineage-15.1" />
+    <project name="android_bionic" path="bionic" remote="Exynos7870" revision="lineage-15.1" />
 	
 </manifest>
