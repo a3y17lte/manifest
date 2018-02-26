@@ -36,4 +36,8 @@
     <!-- Misc -->
     <project name="android_external_stlport" path="external/stlport" remote="LineageOS" revision="lineage-15.0" />
 	
+    <!-- Replace Lineage Bionic with custom one -->
+    <remove-project name="LineageOS/android_bionic" />
+    <project name="exynos7870/android_bionic" path="bionic" remote="github" revision="lineage-15.1" />
+	
 </manifest>
