@@ -32,9 +32,6 @@
 	
     <!-- Doze -->
     <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="staging/lineage-15.1" />
-
-    <!-- Misc -->
-    <project name="android_external_stlport" path="external/stlport" remote="LineageOS" revision="lineage-15.0" />
 	
     <!-- Replace Lineage Bionic with custom one -->
     <remove-project name="LineageOS/android_bionic" />
