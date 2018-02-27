@@ -22,6 +22,8 @@
 
     <!-- Vendor -->
     <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="vendor" path="android_vendor_samsung remote="Exynos7870" revision="lineage-15.1" />
+
     
     <!-- Hardware -->
     <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
