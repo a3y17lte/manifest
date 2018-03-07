@@ -10,8 +10,7 @@
 Copyright (C) 2017 Matthieu <g.matthieu49@gmail.com><br>
 Exynos7870 devs for their work
 
-## Donations
+## Contact
 
-If you want make donation ask me for link on telegram :
-https://t.me/McFy49
-my mail paypal is g.matthieu49@gmail.com
+If you want talk to me, here is my telegram :https://t.me/McFy49
+For donation, here you can see my paypal g.matthieu49@gmail.com
