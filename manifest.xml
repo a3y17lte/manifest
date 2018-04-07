@@ -34,8 +34,11 @@
     <!-- Doze -->
     <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="lineage-15.1" />
 	
-    <!-- Replace Lineage Bionic with custom one -->
+    <!-- Repopick -->
     <remove-project name="LineageOS/android_bionic" />
     <project name="android_bionic" path="bionic" remote="Exynos7870" revision="lineage-15.1" />
+    <remove-project name="LineageOS/android_frameworks_base" />
+    <project name="android_frameworks_base" path="frameworks/base" remote="a3y17lte" revision="lineage-15.1" />
+
 	
 </manifest>
