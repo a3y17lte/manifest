@@ -2,8 +2,8 @@
 <manifest>
     <!--
     * target: a3y17lte
-    * date: 11.02.2018
-    * rom: LineageOS 15.1
+    * date: 03.01.2019
+    * rom: LineageOS 16.0
     -->
 
     <!-- Remote -->
@@ -11,32 +11,21 @@
     <remote fetch="https://github.com/Exynos7870/" name="Exynos7870" />
     <remote fetch="https://github.com/LineageOS/" name="LineageOS" />
 
-
     <!-- Device -->
-    <project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="Exynos7870" revision="lineage-16.0-matt" />
+    <project name="device-specific" path="device/samsung/a3y17lte" remote="a3y17lte" revision="lineage-16.0" />
 
     <!-- Kernel -->
-    <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="kernel" path="kernel/samsung/exynos7870" remote="a3y17lte" revision="lineage-16.0" />
 
     <!-- Vendor -->
-    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-15.1" />
-    <project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-15.1" />
-
+    <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-16.0" />
+    <project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-16.0-matt" />
     
     <!-- Hardware -->
-    <project name="android_hardware_samsung_slsi-cm_exynos7870" path="hardware/samsung_slsi-cm/exynos7870" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="Exynos7870" revision="lineage-15.1" />
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" revision="lineage-16.0" />
 	
     <!-- Doze -->
-    <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="lineage-15.1" />
-	
-    <!-- Repopick -->
-    <remove-project name="LineageOS/android_frameworks_base" />
-    <project name="android_frameworks_base" path="frameworks/base" remote="a3y17lte" revision="lineage-15.1" />
+    <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="lineage-16.0" />
 
-	
 </manifest>
