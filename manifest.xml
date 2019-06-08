@@ -22,8 +22,8 @@
     <project name="vendor" path="vendor/samsung/a3y17lte" remote="a3y17lte" revision="lineage-16.0" />
     <project name="android_vendor_samsung" path="vendor/samsung" remote="Exynos7870" revision="lineage-16.0-matt" />
     
-    <!-- Hardware -->
-    <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" revision="lineage-16.0" />
+    <!-- Hardware (not included with BSP) -->
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="a3y17lte" />
 	
     <!-- Doze -->
     <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="LineageOS" revision="lineage-16.0" />
