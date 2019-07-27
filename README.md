@@ -1,4 +1,4 @@
-## Setup Galaxy A3 2017 for Lineage-15.1 based rom
+## Setup Galaxy A3 2017 for Lineage-16.0 based rom
 
 * Download supported sources (LineageOS, AOSCP, RR, etc...)
 * Once this is download, clone this repo to .repo/local_manifests then sync repositories again
